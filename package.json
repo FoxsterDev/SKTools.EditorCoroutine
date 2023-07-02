@@ -1,0 +1,15 @@
+{
+  "name": "com.foxsterdev.editorcoroutine",
+  "displayName": "SKTools.EditorCoroutine",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "Allow you to run coroutine in editor",
+  "keywords": ["Unity Editor Coroutine", "Coroutine"],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/FoxsterDev/SKTools.EditorCoroutine",
+  "changelogUrl": "https://github.com/FoxsterDev/SKTools.EditorCoroutine/releases",
+  "licensesUrl": "https://github.com/FoxsterDev/SKTools.EditorCoroutine/blob/main/LICENSE",
+  "dependencies": {
+    
+  }
+}
